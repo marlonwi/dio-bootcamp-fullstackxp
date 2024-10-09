@@ -1,0 +1,14 @@
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\bin\Debug\net8.0\DesafioDeCodigoUm.exe
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\bin\Debug\net8.0\DesafioDeCodigoUm.deps.json
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\bin\Debug\net8.0\DesafioDeCodigoUm.runtimeconfig.json
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\bin\Debug\net8.0\DesafioDeCodigoUm.dll
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\bin\Debug\net8.0\DesafioDeCodigoUm.pdb
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\obj\Debug\net8.0\DesafioDeCodigoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\obj\Debug\net8.0\DesafioDeCodigoUm.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\obj\Debug\net8.0\DesafioDeCodigoUm.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\obj\Debug\net8.0\DesafioDeCodigoUm.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\obj\Debug\net8.0\DesafioDeCodigoUm.dll
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\obj\Debug\net8.0\refint\DesafioDeCodigoUm.dll
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\obj\Debug\net8.0\DesafioDeCodigoUm.pdb
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\obj\Debug\net8.0\DesafioDeCodigoUm.genruntimeconfig.cache
+C:\Users\marlo\OneDrive\Documentos\BootcampXp\DesafioDeCodigoUm\DesafioDeCodigoUm\obj\Debug\net8.0\ref\DesafioDeCodigoUm.dll
